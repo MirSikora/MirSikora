@@ -24,6 +24,8 @@
 <a href="https://junit.org/junit5/" ><img src="https://img.shields.io/badge/-JUnit%205-black?logo=junit5&logoColor=red&style=flat"></a>
 <a href="https://www.selenium.dev/" ><img src="https://img.shields.io/badge/-Selenium-black?logo=selenium&logoColor=green&style=flat"></a>
 <a href="https://specflow.org/" ><img src="https://img.shields.io/badge/-SpecFlow-black?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCA0MCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM1NzQ4OTc7fS5jbHMtMntmaWxsOiM0NWJhZDk7fS5jbHMtM3tmaWxsOiMwMDRkOTY7fTwvc3R5bGU+PC9kZWZzPjxnIGlkPSJFYmVuZV8yIiBkYXRhLW5hbWU9IkViZW5lIDIiPjxnIGlkPSJsb2dvIj48ZyBpZD0ic2lnbmV0Ij48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik00LDQwYTQsNCwwLDAsMS0yLjM1LTcuMjRsMjItMTZhNCw0LDAsMCwxLDQuNyw2LjQ3bC0yMiwxNkE0LDQsMCwwLDEsNCw0MFoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0yNiwyNGE0LDQsMCwwLDEtMi4zNS0uNzdsLTIyLTE2QTQsNCwwLDAsMSw2LjM1Ljc3bDIyLDE2QTQsNCwwLDAsMSwyNiwyNFoiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik00LDQwYTQsNCwwLDAsMS00LTRWNEE0LDQsMCwwLDEsOCw0VjM2QTQsNCwwLDAsMSw0LDQwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTIzLjY1LDIzLjI0aDBMMTkuMiwyMCwxLjY1LDMyLjc2QTQsNCwwLDAsMCw0LDQwYTQsNCwwLDAsMCwyLjM1LS43N0wyNiwyNVoiLz48L2c+PC9nPjwvZz48L3N2Zz4=&logoColor=white&style=flat"></a>
+<a href="https://www.selenium.dev/" ><img src="https://img.shields.io/badge/-Visual%20Basic-black?logo=visualbasic&logoColor=22ADF6&style=flat"></a>
+<a href="https://dotnet.microsoft.com/en-us/" ><img src="https://img.shields.io/badge/-.NET-black?logo=.net&logoColor=5C2D91&style=flat"></a>
 <!--
 **MirSikora/MirSikora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
