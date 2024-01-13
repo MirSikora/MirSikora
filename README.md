@@ -27,6 +27,8 @@
 <a href="https://www.selenium.dev/" ><img src="https://img.shields.io/badge/-Visual%20Basic-black?logo=visualbasic&logoColor=22ADF6&style=flat"></a>
 <a href="https://dotnet.microsoft.com/en-us/" ><img src="https://img.shields.io/badge/-.NET-black?logo=.net&logoColor=5C2D91&style=flat"></a>
 <a href="https://www.python.org/" ><img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat"></a>
+<a href="https://www.postman.com/" ><img src="https://img.shields.io/badge/-Postman-black?logo=postman&style=flat"></a>
+
 <!--
 **MirSikora/MirSikora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
