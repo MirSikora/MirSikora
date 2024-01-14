@@ -11,6 +11,7 @@
 <a href="https://getbootstrap.com/" ><img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=flat"></a>
 <a href="https://spring.io/projects/spring-boot/" ><img src="https://img.shields.io/badge/-Spring-black?logo=spring&style=flat"></a>
 <a href="https://www.thymeleaf.org/" ><img src="https://img.shields.io/badge/-Thymeleaf-black?logo=thymeleaf&logoColor=darkgreen&style=flat"></a>
+<a href="https://nette.org/cs/" ><img src="https://img.shields.io/badge/-Nette-black?logo=nette&style=flat"></a>
 <a href="https://cs.wordpress.org/" ><img src="https://img.shields.io/badge/-WordPress-black?logo=wordpress&logoColor=blue&style=flat"></a>
 <a href="https://www.mysql.com/" ><img src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat"></a>
 <a href="https://docs.oracle.com/en/database/oracle/oracle-database/" ><img src="https://img.shields.io/badge/-Oracle Database-black?logo=oracle&logoColor=red&style=flat"></a>
@@ -28,6 +29,7 @@
 <a href="https://dotnet.microsoft.com/en-us/" ><img src="https://img.shields.io/badge/-.NET-black?logo=.net&logoColor=5C2D91&style=flat"></a>
 <a href="https://www.python.org/" ><img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat"></a>
 <a href="https://www.postman.com/" ><img src="https://img.shields.io/badge/-Postman-black?logo=postman&style=flat"></a>
+
 
 <!--
 **MirSikora/MirSikora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
